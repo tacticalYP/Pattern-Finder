@@ -6,9 +6,10 @@
 * It also shows where is the pattern in given motif.
 
 # How to Run
-1. A GCC C compiler with header files "stdio.h","stdbool.h","windows.h" and Source Code (b23cs1051.c) are required for running the code.
-2. Compile the code using C compiler ( you can use this command -> gcc PatternFinder.c -o PatternFinder )
-3. Run the executable file ( you can use this command -> ./PatternFinder )
+1. A GCC C compiler with header files "stdio.h","stdbool.h","windows.h" is required for running the code.
+2. Clone this repository or Copy source file in your project folder.
+3. Compile the code using C compiler ( you can use this command in project folder -> gcc PatternFinder.c -o PatternFinder )
+4. Run the executable file ( you can use this command after using command in same project folder -> ./PatternFinder )
 
 # Instructions
 1. Input matrices of size : mxn (m,n>0) with elements in range 1-9.If you enter element <0 or >9 quality of final result will reduce.
